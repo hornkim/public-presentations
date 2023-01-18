@@ -44,13 +44,13 @@ Also a pack summarising various approaches to software estimation.
 # IT Strategy And Innovation
 
 This material is based on Kaplan and Nortons Famous work on Corporate Strategy and Performance Management
--	Corporate Strategy approach (thats drills into IT Strategy) using Strategy Maps and balanced scorecard: Strategy Approach.pdf
--	The process for doing this strategy: Strategy Process.pdf
--	The Innovation component of Strategy: Innovation Process.pdf
+-	Corporate Strategy approach (thats drills into IT Strategy) using Strategy Maps and balanced scorecard -  ***Strategy Approach.pdf***
+-	The process for doing this strategy - ***Strategy Process.pdf***
+-	The Innovation component of Strategy-  ***Innovation Process.pdf***
 
 # Spark
 
-- Spark introduction Short Course ( 1 week) 
+- Spark introduction Short Course ( 1 week) - ***Spark-Intro.pdf***
 The slides have a complete set of example code for Java.
 
 
