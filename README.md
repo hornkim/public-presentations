@@ -61,7 +61,8 @@ Below is a series of Presentations on a Microservices Architecture Blueprint, al
 It is aimed at integrating a complex set of services that make up an application, and not individual 'micro services'.
 The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc.. the soruce code is available on request.
 
-![Blueprint] (./MicroserviceStack.bmp)
+![Blueprint](MicroserviceStack.bmp)
+
 
 
 - MicroServices-E1-Intro.pdf
