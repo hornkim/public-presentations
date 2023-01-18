@@ -26,6 +26,7 @@ The first pack below describes an up to date, Agile Way of Working. It is based 
 -	Practice VS Process. Looks at SEMAT, Essense, and SPEM, EPF: ***PracticeVProcess.pdf***
 -	A vision Document Template: ***Vision Document Template***
 -	Estimation : ***Estimation-V0.4.pdf***
+-   Essense Sliders - reviewing a project status ***EssenceSldiers.ppt***
 
 # SAFe Material: 
 
@@ -55,7 +56,7 @@ Below is a series of Presentations on a Microservices Architecture Blueprint, al
 It is aimed at integrating a complex set of services that make up an application, and not individual 'micro services'.
 The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc.. the soruce code is available on request.
 
-![Blueprint] (Microservice Stack.bmp)
+![Blueprint] (./MicroserviceStack.bmp)
 
 
 - MicroServices-E1-Intro.pdf
