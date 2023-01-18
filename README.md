@@ -26,7 +26,9 @@ A selection of slides, presentations and templates
 
 # SDLC and Process, Estimation - Way of Working Material
 
-The first pack below describes an up to date, Agile Way of Working. It is based on material from second item describing  a new 'radical' ways to look at SDLC, this is 'Essence'. It argues that Practices are better then process.   It also talks about SPEM which is a model of SDLCs. Eclipse has implemented a CAD Authoring tools for process, called Eclipse Process Framework (EPF), based on SPEM model, and two examples are provided. The tool provides a large amount of re-usable material so describing your own processes is quite easy.  Examples include a simple process for SCRUM, and another famous process called OpenUP. Also a pack summarising various approaches to software estimation.
+The first pack below describes an up to date, Agile Way of Working. It is based on material from second item describing  a new 'radical' ways to look at SDLC, this is 'Essence'. It argues that Practices are better then process.   It also talks about SPEM which is a model of SDLCs. Eclipse has implemented a CAD Authoring tools for process, called Eclipse Process Framework (EPF), based on SPEM model, and two examples are provided. The tool provides a large amount of re-usable material so describing your own processes is quite easy.  Examples include a simple process for SCRUM, and another famous process called OpenUP. 
+Also a pack summarising various approaches to software estimation.
+
 -	Agile Way of Working: ***WayOfWorking-New.pdf***
 -	Practice VS Process. Looks at SEMAT, Essense, and SPEM, EPF: ***PracticeVProcess.pdf***
 -	A vision Document Template: ***Vision Document Template***
