@@ -1,5 +1,6 @@
 Kims Presentations
 
-List of Slides:
+List of Slide Packs
 
-
+1) Way of Working
+2) Estimation Approaches
