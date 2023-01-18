@@ -10,7 +10,7 @@ A selection of slides, presentations and templates
 -	The 'complete' System/Solution Architecture Framework - The Cube - ***3D-Cube-Short New.pdf***
 -	System Architecture Template (SAD) based on The Cube - ***SAD-Light Template V0.0.docx***
 -	Architecture Views Approaches - ***Arch-Views.pptx***
--	Enterprise, Program, Solution Process Layers: *** EA Layers Of Architecture.pdf***
+-	Enterprise, Program, Solution Process Layers: ***EA Layers Of Architecture.pdf***
 -	Architecture Principles Guidance : ***Principles-Guidance.pdf***
 -	The 'complete' Requirements Framework - ***Rqmts_V5.95.pdf*** 
 -    Solution on a page (SOAP) template: ***SOAP-Template.pptx***
@@ -58,11 +58,10 @@ The slides have a complete set of example code for Java.
 Chris Richardson  Oct 2016
 
 Below is a series of Presentations on a Microservices Architecture Blueprint, all based on a Working Industrial Strength Real Applications.
+the soruce code for these is availble from me.
 It is aimed at integrating a complex set of services that make up an application, and not individual 'micro services'.
-The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc.. the soruce code is available on request.
-
+The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc..
 ![Blueprint](MicroserviceStack.png)
-
 
 
 - MicroServices-E1-Intro.pdf
@@ -73,7 +72,7 @@ The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, et
 - MicroServices-E6-Example4.pdf
 - MicroServices-E7-REST-Reliability.pdf
 
-- A LEAN Canvas bases Microservice Template MOAP-Template.pptx
+- A LEAN Canvas bases Microservice Template  - ***MOAP-Template.pptx***
 
 # Microservice Principles
 
