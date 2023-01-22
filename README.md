@@ -1,6 +1,6 @@
 # Kim Horns Presentations
 
-A selection of slides, presentations and templates
+A small selection of my slides, presentations and templates. Some use animations and these are unfortunately lost in PDFs.
 
 
 
@@ -17,6 +17,8 @@ A selection of slides, presentations and templates
 - 	Archimate Introduction ***Archimate.pdf***
 -	Architecture Roles: ***Architect Roles General.docx***
 -   Prototyping and Risk ***Protype-Risk.pdf***
+-   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
+-   Agile Requirements ***Agile Rqmts.pdf***
 
 
 # Systemic Qualities Guidance  - what are NFRs and Systemic Qualities 
@@ -63,7 +65,7 @@ The slides have a complete set of example code for Java.
 Chris Richardson  Oct 2016
 
 Below is a series of Presentations on a Microservices Architecture Blueprint, all based on a Working Industrial Strength Real Applications.
-the soruce code for these is availble from me.
+the source code for these is available from me, on request ( to be put in GIT)
 It is aimed at integrating a complex set of services that make up an application, and not individual 'micro services'.
 The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc..
 Sharing Data is an issue with microservies, the patterns and antipatterns are discussed, and how Data Mesh can help.
@@ -77,6 +79,7 @@ Sharing Data is an issue with microservies, the patterns and antipatterns are di
 - MicroServices-E5-Example3.pdf
 - MicroServices-E6-Example4.pdf
 - MicroServices-E7-REST-Reliability.pdf
+- Microservice-API-Mngt.pdf 
 - Microservice-Sharing.pdf
 - Microservice-Principles.pdf
 
