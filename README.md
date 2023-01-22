@@ -13,15 +13,18 @@ A selection of slides, presentations and templates
 -	Enterprise, Program, Solution Process Layers: ***EA Layers Of Architecture.pdf***
 -	Architecture Principles Guidance : ***Principles-Guidance.pdf***
 -	The 'complete' Requirements Framework - ***Rqmts_V5.95.pdf*** 
--    Solution on a page (SOAP) template: ***SOAP-Template.pptx***
+-   Solution on a page (SOAP) template: ***SOAP-Template.pptx***
 - 	Archimate Introduction ***Archimate.pdf***
-
-
-# Systemic Qualities Guidance  - what are NFRs and Systemic Qualities: 
-
--	NFRs Businesss Driven.pdf 
--	Introduction to NFRs and Quality: ***NFR Introduction.pdf***
 -	Architecture Roles: ***Architect Roles General.docx***
+-   Prototyping and Risk ***Protype-Risk.pdf***
+
+
+# Systemic Qualities Guidance  - what are NFRs and Systemic Qualities 
+Architure is manly defined by Non-Functional Qualities (requirements), and these
+allow us to determine the quality of a solution System and Architecture.
+
+-	NFRs are driven by business requirements and objectives ***NFRs Businesss Driven.pdf*** 
+-	Introduction to NFRs and Quality: ***NFR Introduction.pdf***
 
 
 # SDLC and Process, Estimation - Way of Working Material
@@ -32,7 +35,7 @@ Also a pack summarising various approaches to software estimation.
 -	Agile Way of Working: ***WayOfWorking-New.pdf***
 -	Practice VS Process. Looks at SEMAT, Essense, and SPEM, EPF: ***PracticeVProcess.pdf***
 -	A vision Document Template: ***Vision Document Template***
--	Estimation : ***Estimation-V0.4.pdf***
+-	Estimation : ***Estimation-V0.5.pdf***
 -   Essense Sliders - reviewing a project status ***EssenceSldiers.ppt***
 
 # SAFe Material: 
@@ -63,6 +66,7 @@ Below is a series of Presentations on a Microservices Architecture Blueprint, al
 the soruce code for these is availble from me.
 It is aimed at integrating a complex set of services that make up an application, and not individual 'micro services'.
 The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, etc etc..
+Sharing Data is an issue with microservies, the patterns and antipatterns are discussed, and how Data Mesh can help.
 ![Blueprint](MicroserviceStack.png)
 
 
@@ -73,6 +77,8 @@ The Blueprint is based on Spring Boot and Spring Cloud, Netflix Stack, Kafka, et
 - MicroServices-E5-Example3.pdf
 - MicroServices-E6-Example4.pdf
 - MicroServices-E7-REST-Reliability.pdf
+- Microservice-Sharing.pdf
+- Microservice-Principles.pdf
 
 - A LEAN Canvas bases Microservice Template  - ***MOAP-Template.pptx***
 
