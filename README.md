@@ -19,6 +19,7 @@ A small selection of my slides, presentations and templates. Some use animations
 -   Prototyping and Risk ***Protype-Risk.pdf***
 -   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
 -   Agile Requirements ***Agile Rqmts.pdf***
+-   Iterative Testing Approaches ***Iterative Testing-V1.7***
 
 
 # Systemic Qualities Guidance  - what are NFRs and Systemic Qualities 
