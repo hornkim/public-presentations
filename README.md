@@ -53,6 +53,7 @@ This material is based on Kaplan and Nortons Famous work on Corporate Strategy a
 -	Corporate Strategy approach (thats drills into IT Strategy) using Strategy Maps and balanced scorecard -  ***Strategy Approach.pdf***
 -	The process for doing this strategy - ***Strategy Process.pdf***
 -	The Innovation component of Strategy-  ***Innovation Process.pdf***
+-   Building SaaS products - ***SaaS v1.0.pdf***
 
 # Spark
 
