@@ -82,6 +82,7 @@ Sharing Data is an issue with microservies, the patterns and antipatterns are di
 - Microservice-API-Mngt.pdf 
 - Microservice-Sharing.pdf
 - Microservice-Principles.pdf
+- An old talk on SOA ***SOA_V0.35.pdf***
 
 - A LEAN Canvas bases Microservice Template  - ***MOAP-Template.pptx***
 
