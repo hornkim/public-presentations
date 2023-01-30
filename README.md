@@ -22,6 +22,7 @@ These are historical and may not represent my views and beliefs today.
 -   Agile Requirements ***Agile Rqmts.pdf***
 -   Iterative Testing Approaches ***Iterative Testing-V1.7***
 -   IT Governance ***Governance_V0.19.pdf***
+-   Data Principles - these have been updated, to do ***Data Principles.pdf***
 
 
 # Systemic Qualities Guidance  - what are NFRs and Systemic Qualities 
