@@ -3,6 +3,14 @@
 A small selection of my slides, presentations and templates. Some use animations and these are unfortunately lost in the PDFs.
 These are historical and may not represent my views and beliefs today.
 
+# Enterprise level Material
+
+-   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
+-	Enterprise, Program, Solution Process Layers: ***EA Layers Of Architecture.pdf***
+-   IT Governance ***Governance_V0.19.pdf***
+-   Data Principles - these have been updated, to do ***Data Principles.pdf***
+-   Enterprise Roadmap (Product, Technology and Capability Roadmaps) - ***EA-Roadmaps.pdf***
+
 
 
 # Software Engineering Slide Packs:
@@ -11,18 +19,14 @@ These are historical and may not represent my views and beliefs today.
 -	The 'complete' System/Solution Architecture Framework - The Cube - ***3D-Cube-Short New.pdf***
 -	System Architecture Template (SAD) based on The Cube - ***SAD-Light Template V0.0.docx***
 -	Architecture Views Approaches - ***Arch-Views.pptx***
--	Enterprise, Program, Solution Process Layers: ***EA Layers Of Architecture.pdf***
 -	Architecture Principles Guidance : ***Principles-Guidance.pdf***
 -	The 'complete' Requirements Framework, and old deck being renovated - ***Rqmts_V5.95.pdf*** 
 -   Solution on a page (SOAP) template: ***SOAP-Template.pptx***
 - 	Archimate Introduction ***Archimate.pdf***
 -	Architecture Roles: ***Architect Roles General.docx***
 -   Prototyping and Risk ***Protype-Risk.pdf***
--   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
 -   Agile Requirements ***Agile Rqmts.pdf***
 -   Iterative Testing Approaches ***Iterative Testing-V1.7***
--   IT Governance ***Governance_V0.19.pdf***
--   Data Principles - these have been updated, to do ***Data Principles.pdf***
 
 
 # Systemic Qualities Guidance  - what are NFRs and Systemic Qualities 
