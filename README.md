@@ -3,6 +3,11 @@
 A small selection of my slides, presentations and templates. Some use animations and these are unfortunately lost in the PDFs.
 These are historical and may not represent my views and beliefs today.
 
+# Latest Uodae to the Archietcure process Framework
+
+-  The Cube and its process  - ***3D-Cube-for-Architecture.pdf***
+-  see below for a smaller version of this.
+
 # Enterprise level Material
 
 -   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
