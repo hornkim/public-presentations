@@ -8,6 +8,11 @@ These are historical and may not represent my views and beliefs today.
 -  The Cube and its process  - ***3D-Cube-for-Architecture.pdf***
 -  see below for a smaller version of this.
 
+# AI Slides
+
+- Association Rules - looks at Market basket analysis etc
+- AI-Spring-Short - an Introduction to Spring-AI
+
 # Enterprise level Material
 
 -   Enterprise Architecture as Strategy, old deck: ***EA_6.7.pdf***
